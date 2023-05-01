@@ -4,8 +4,10 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,81,121,0.8726362570738181) 45%, rgba(41,255,0,1) 100%);
   }
-  
+
   a {
     color: #0077c0;
   }
